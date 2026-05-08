@@ -1,4 +1,5 @@
-# Primetrade Backend API
+## Frontend Repository
+🔗 https://github.com/Vasundhara-02/primetrade-frontend# Primetrade Backend API
 
 A scalable REST API with Authentication & Role-Based Access Control built with Node.js, Express, PostgreSQL & Sequelize.
 
